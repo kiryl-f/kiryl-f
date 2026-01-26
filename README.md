@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack-end developer.
+Fullstack developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kiryl-filipovich-434285252/) 
